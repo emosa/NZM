@@ -1,5 +1,14 @@
-/* Table of contents
+/*
+* EBERT - Signature Edition | Premium Web Template from Designova
+* Build: Sep 2015;
+* Author: Designova, http://www.designova.net
+* Copyright (C) 2015 Designova
+* This is a premium product. For licensing queries please contact info@designova.net
+*/
 
+
+/* Table of contents
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ 
 - 1. Common
 - 2. Header
 - 3. Footer
@@ -10,7 +19,7 @@
 
 
 /* 1. Common
- */
+â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“â€“ */
 html, body {
     overflow-x: hidden;
 }
@@ -997,7 +1006,7 @@ fieldset h1 {
 }
 
 .pad-top {
-    padding-top: 60px;
+    padding-top: 160px;
 }
 
 .pad-top-half {
@@ -1017,7 +1026,7 @@ fieldset h1 {
 }
 
 .pad-bottom-quarter {
-    padding-bottom: 22px;
+    padding-bottom: 40px;
 }
 
 .remove-top {
@@ -1221,3 +1230,5 @@ p {
 .btn-signature {
   font-family: 'Montserrat', sans-serif;
 }
+
+
