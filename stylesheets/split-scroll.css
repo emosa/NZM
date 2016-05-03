@@ -1,0 +1,133 @@
+#myContainer{
+	margin-left: 100px;
+}
+
+.ms-section{
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+	text-align: center;
+}
+#multiscroll-nav span{
+	 background: #121212;
+    border: 1px solid #121212;
+    border-radius: 50%;
+    height: 8px;
+    left: 2px;
+    position: absolute;
+    top: 2px;
+    width: 8px;
+    z-index: 1;
+}
+#multiscroll-nav li .active span{
+	 background: #ccc;
+    border: 1px solid #ccc;
+}
+
+/*Text Styles*/
+.ms-section h1 {
+    font-family: "Raleway",Arial,Helvetica,sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    line-height: 27px;
+    text-transform: uppercase;
+}
+.ms-section h3 {
+}
+.ms-section h3 > span {
+    font-family: "Montserrat",Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    line-height: 20px;
+    padding: 7px;
+    padding-left: 15px;
+    text-transform: uppercase;
+}
+.ms-overlay{
+    display: none;
+    height: 100%;
+    background-color: transparent;
+}
+
+.ms-overlay a{
+    display: block;
+            cursor: url("../images/plus.png") 40 40, crosshair;
+            -webkit-transition: all .4s ease-in-out;
+               -moz-transition: all .4s ease-in-out;
+                -ms-transition: all .4s ease-in-out;
+                 -o-transition: all .4s ease-in-out;
+                    transition: all .4s ease-in-out;
+}
+
+.ms-section-left{
+    background-position: right center !important;
+    border-left: solid 70px #fff;
+}
+.ms-section-right{
+    background-position: left center !important;
+    border-right: solid 70px #fff;
+}
+
+
+
+.ms-tableCell{
+    background-color: rgba(0,0,0,0.2);
+}
+
+.ms-static-title{
+    padding-left: 0px;
+    padding-right: 0px;
+} 
+.ms-static-title a{
+            cursor: url("../images/plus.png") 40 40, crosshair;
+            -webkit-transition: all .4s ease-in-out;
+               -moz-transition: all .4s ease-in-out;
+                -ms-transition: all .4s ease-in-out;
+                 -o-transition: all .4s ease-in-out;
+                    transition: all .4s ease-in-out;
+}
+.ms-static-title h1 span {
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 8px;
+    line-height: 21px;
+    text-transform: uppercase;
+    padding: 10px 15px;
+}
+
+/*Panels - LEFT Side*/
+.left1{
+    background-image:url(../img/workshop/ws7.jpg) !important;
+    background-size: cover;
+}
+.left2{
+    background-image:url(../img/image6.jpg) !important;
+    background-size: cover;
+}
+.left3{
+    background-image:url(../img/image9.jpg) !important;
+    background-size: cover;
+}
+.left4{
+    background-image:url(../img/workshop/ws18.jpg) !important;
+    background-size: cover;
+}
+
+/*Panels - RIGHT Side*/
+.right1{
+    background-image:url(../img/image1.png) !important;
+    background-size: cover;
+}
+.right2{
+    background-image:url(../img/workshop/ws30.jpg) !important;
+    background-size: cover;
+}
+.right3{
+    background-image:url(../img/workshop/ws33.jpg) !important;
+    background-size: cover;
+}
+.right4{
+    background-image:url(../img/image10.jpg) !important;
+    background-size: cover;
+}

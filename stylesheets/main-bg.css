@@ -1,0 +1,60 @@
+/* MAIN-BG.CSS contains Background Image paths & definition rules powered by CSS
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+/*
+Note: The best way to replace any BG image is to add image URL in url('....') area of related classname.
+If you need assistance, please go to http://www.designova.net/downloads.html and request a downloadable 
+ZIP pack contains original live preview version with all preview images linked properly, so you can easily 
+replace preview images directly;
+*/
+
+.nav-bg{
+    background-image: url('../img/image1.png');
+}
+.hero-bg {
+    background-image: url('../img/image2.jpg');
+}
+.about-bg {
+    background-image: url('../img/image3.jpg');
+}
+.features-bg{
+    background-image: url('../images/bg/01.jpg');
+}
+.skills-bg{
+    background-image: url('../images/bg/03.jpg');
+}
+.news-01-bg:hover{
+    background-image: url('../img/image1.png');
+}
+.news-02-bg:hover{
+    background-image: url('../img/image2.png');
+}
+.news-03-bg:hover{
+    background-image: url('../img/image3.png');
+}
+.parallax-showcase-01{
+	background-image: url('../img/image1.png');
+}
+.parallax-showcase-02{
+	background-image: url('../img/image2.png');
+}
+.parallax-showcase-03{
+	background-image: url('../img/image3.png');
+}
+.project-parallax-showcase-01{
+    background-image: url('../img/image1.png');
+}
+.project-parallax-showcase-02{
+    background-image: url('../img/image2.png');
+}
+.project-parallax-showcase-03{
+    background-image: url('../img/image3.png');
+}
+.project-parallax-showcase-04{
+    background-image: url(../img/image4.png');
+}
+.project-parallax-showcase-05{
+    background-image: url('../img/image5.png');
+}
+.project-parallax-showcase-06{
+    background-image: url('../img/image6.png');
+}
