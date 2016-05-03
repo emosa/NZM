@@ -78,6 +78,7 @@
 .ms-static-title{
     padding-left: 0px;
     padding-right: 0px;
+    margin-top: 250px;
 } 
 .ms-static-title a{
             cursor: url("../images/plus.png") 40 40, crosshair;
