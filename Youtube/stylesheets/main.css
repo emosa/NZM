@@ -124,7 +124,7 @@ header.masthead.signature-ebert {
     left: 0;
     width: 100%;
     z-index: 9900;
-    height: 70px;
+    height: 100px;
 
 }
 header.masthead.signature-ebert > .masthead-inner {
@@ -135,7 +135,7 @@ header.masthead.signature-ebert > .masthead-inner {
     margin: 18px 0;
 }
 .menu-trigger{
-    margin-top: 10px;
+    margin-top: 20px;
     display: block;
 }
 .menu-trigger span{
